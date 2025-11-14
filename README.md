@@ -97,6 +97,11 @@ This project includes GitHub Actions that:
 - Ensuring EKS deployments always pull the latest images
 
 
+## Access to the application on the cloud:
+This can be found at :  a798d10e4d87642c9affa6b749ab6846-1301412176.eu-west-1.elb.amazonaws.com
+
+
+
 ## License
 
 [MIT](./LICENSE)
